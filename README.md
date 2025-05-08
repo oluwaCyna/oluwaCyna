@@ -10,7 +10,7 @@ I care deeply about writing testable, maintainable code and shipping features th
 ### 💼 What I Work With
 
 - 🧠 **Languages:** PHP, JavaScript
-- ⚙️ **Frameworks:** Laravel, Livewire, Filament, Inertia.js
+- ⚙️ **Frameworks:** Laravel, React, Livewire, Filament, Inertia.js
 - 🗃️ **Databases:** MySQL, SQLite
 - 🧪 **Testing:** PHPUnit (unit/feature), Laravel Pest
 - ☁️ **Tools:** Git, GitHub, Postman, Docker (learning)

@@ -44,7 +44,7 @@ Built custom **Livewire** components, integrated **PayPal** for merchant onboard
 ### 📫 Let’s Connect
 
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/shinaa)  
-]- 📧 Email: `mujeebshina@gmail.com`
+- 📧 Email: `mujeebshina@gmail.com`
 
 > 🚀 I’m open to **remote full-time or contract roles** (junior/mid-level Laravel backend/full-stack), and I’m happy to do a trial to prove my skills.
 
